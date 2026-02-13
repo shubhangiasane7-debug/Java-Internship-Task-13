@@ -1,6 +1,6 @@
 # Java-Internship-Task-13
 Java Internship Task 13 Solution
-[9:41 am, 13/02/2026] Shubhangi Asane: OBJECTIVE:
+OBJECTIVE:
 To connect Java application with MySQL database using JDBC and perform CRUD operations.
 TOOLS USED:
 Java (JDK 8 or above)
